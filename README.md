@@ -5,7 +5,8 @@
 可以靠挂广告赚钱买spark
 心动了,立马就去注册一个公众号,
 把自己之前搞的一些个人文档堆上来
-
+<a href="http://click.dji.com/APZ7xbqGqop88BpdmSQN?pm=link&as=0001&ch=dj01" target=_blank>
+<img src="https://u.djicdn.com/uploads/ad_image_file/file/498/468x60_copy.jpg"></a>
 特别感谢大疆的这个朋友(杨同学)
 借着这个契机
 多沉淀一些属于自己的知识
@@ -20,7 +21,6 @@
 大家就凑合着看一下。。。
 
 内核-小说系列(1)风云再起
-
 
 
 在这个由至阴至寒的0和至阳至刚的1
@@ -142,4 +142,5 @@ Mobile Browser WebCore
 Spark基金众筹  -- 爱我你就长按识别我
 金额不限哈哈<.^.>
 
-<a href="http://click.dji.com/APZ7xbqGqop88BpdmSQN?pm=ad_image" target=_blank><img src="https://u.djicdn.com/uploads/ad_image_file/file/498/468x60_copy.jpg"></a>
+<a href="http://click.dji.com/APZ7xbqGqop88BpdmSQN?pm=link&as=0001&ch=dj01" target=_blank>
+<img src="https://u.djicdn.com/uploads/ad_image_file/file/498/468x60_copy.jpg"></a>
