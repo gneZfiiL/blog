@@ -1,37 +1,145 @@
-## Welcome to GitHub Pages
+今天看到大疆发布的spark很想买一台
+以后和妹子出去玩就很方便
+满足各种拍照兽欲
+大疆里面的一个朋友告诉我
+可以靠挂广告赚钱买spark
+心动了,立马就去注册一个公众号,
+把自己之前搞的一些个人文档堆上来
 
-You can use the [editor on GitHub](https://github.com/gneZfiiL/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+特别感谢大疆的这个朋友(杨同学)
+借着这个契机
+多沉淀一些属于自己的知识
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+由于阿里禁用在线笔记
+更是由于自己变懒了
+很久没有写文字了。。。
+再加上水平确实有限,
+确实有点忐忑,
 
-### Markdown
+我鼓起勇气放出来
+大家就凑合着看一下。。。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+内核-小说系列(1)风云再起
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+在这个由至阴至寒的0和至阳至刚的1
+编织的电子计算机网络世界中
+浏览器是进入这个神秘世界的快速通道
+穿过这条通道
+屌丝可以在肥皂剧中和朝思暮想的
+男神/女神含情脉脉地四目相对
+也可以在游戏中侠肝义胆
+亦或是淘宝天猫中shopping狂欢
+这条通道承载着太多的光荣与梦想
+凝聚了太多的寄托和期盼
+于是乎
+普天之下，能人异士，黑客骇客
+竭尽智慧
+争先找寻一条最为便捷的通道
+打造各种各样的宝刀利器
+以便在群雄逐鹿中问鼎中原
+---------------------------------------------
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+其间就有来自世界首富--微软家族的
+名叫IE家伙，典型的高富帅
+在windows系统，他的势力可谓呼风唤雨
+他偷师Mosaic，自创Trident内核
+率先支持了HTML表格定制框架
+以及更多的HTML元素
+同时提供了VB和javascript语言支持
+在windows系统给每位用户加上了
+一道生死符-IE浏览器
+这是一件着实厉害的法器
+控制用户的网络经脉
+劫持用户的网络入口，用户不得不依附
+并以免费的方式硬生生地把浏览器的先驱
+Netscape杀出了浏览器的市场
+作风强悍，手段老辣
+坊间有语云曰:windows兴，IE王！
+气焰之盛，可见一斑！
+细究其手段，内修文德，外施连横
+兼容CSS，捆绑XP系统
+与AOL密谋合约
+昔割膏腴，今夺要塞
+其席卷天下，包举宇内
+囊括四海，并吞八荒之心
+路人皆知也
+---------------------------------------------
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+自然，有明争就有暗斗
+很多人是不愿意臣服的
+Netscape带着失败的耻辱和复仇的决心
+公布了本派的独门秘籍--GECKO引擎
+开源代码，成立基金
+寄希望于程序猿和工程狮
+这两强大而怪癖的种族
+将其秘籍加以改进和优化
+制衡IE，重现往昔的辉煌
+其门下的mozilla firefox
+网罗了大批的开发者
+包括少年天才程序猿布莱克.罗斯
+一时间，分页浏览，搜索整合
+个性定制，插件拓展......
+各种创意法器引领风骚，所向披靡
+开疆拓土，攻城掠地
+进展可谓有声有色
 
-### Jekyll Themes
+与此同时，来自google的chrome和
+苹果的sari也在抢占战略高地
+这两个技术新贵的内功心法师出同源
+都是webkit加载解析排版和渲染的法门
+chrome的多tab
+多进程沙箱模型和其简约的风格
+深得屌丝们的欢心
+sari的冷艳高贵，低调奢华
+语音导航，极速渲染
+实为高B格人士的首选
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gneZfiiL/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+就在微软家族沉浸在PC时代的辉煌
+骄奢淫逸之时
+goolge家族锐意进取，吐故纳新
+开发出手机Android系统
+开启了智能手机的新时代
+苹果家族掌门人乔布斯更是精益求精
+不同凡响
+旗下IOS系统更是大招频出
+新的苹果生态系统迅速勃发壮大。。。
+---------------------------------------------
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+持续了数千年的书简文本记录时代
+已经结束
+每个人内心深处都多了一片文本废墟
+曾经广阔和辉煌的微软MFC
+都在新世界的阴影中孤寂落寞
+曾经至死不休的顽强抵抗
+在无情的铁蹄下逐个崩塌
+曾经被融铸的完整疆域
+已经变成纷乱割裂的地盘
+曾经震耳欲聋的喧哗
+最终沉寂为一个声音
+Mobile Browser WebCore
+这个移动互联网新时代的至尊秘籍
+无上心法，遵循它的指引
+就能在浏览器上展示出完整绚丽的网页
+播放精彩绝伦的视频
+渲染妙趣横生的动画
+江湖传言得移动互联网者得天下
+此言不虚也！
+
+智能互联大时代已经来临
+每个人内心都多了一份期盼
+于是乎，风云起，山河动
+战鼓响，硝烟浓
+江湖恩怨，恨不休。。。
+
+欲知后事如何，请看下回分解
+
+---------------------------------------------
+Spark基金众筹  -- 爱我你就长按识别我
+金额不限哈哈<.^.>
+
+<a href="http://click.dji.com/APZ7xbqGqop88BpdmSQN?pm=ad_image" target=_blank><img src="https://u.djicdn.com/uploads/ad_image_file/file/498/468x60_copy.jpg"></a>
