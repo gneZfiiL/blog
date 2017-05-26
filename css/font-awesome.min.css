@@ -4,7 +4,7 @@
  */
 @font - face {
     font - family: 'FontAwesome';
-    src: url('../fonts/fontawesome-webfont.eot?v=4.1.0');
+    src: url('https://github.com/gneZfiiL/blog/raw/master/fonts/fontawesome-webfont.eot?v=4.1.0');
     src: url('https://github.com/gneZfiiL/blog/raw/master/fonts/fontawesome-webfont.eot?') format('embedded-opentype'),
     /*!url('../fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'),
     url('../fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'),*/
