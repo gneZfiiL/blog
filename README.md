@@ -23,7 +23,7 @@
  </head>
  <!--/head-->
  <body>
-  <header id="header">
+
    <div class="navbar navbar-inverse" role="banner">
     <div class="container">
 
@@ -55,8 +55,8 @@
      <div class="row">
       <div class="action">
        <div class="col-sm-12">
-        <h1 class="title">Plane</h1>
-        <p>Not Ready yet!</p>
+        <h1 class="title">About Me</h1>
+        <p>工作中对Android和Chromium有些积累,生活中喜欢乒乓球,喜欢健身出汗,堆砌一些有意思的事情,做些转化,目的是激励自己多学习提高,能实力圈粉就最好了</p>
        </div>
       </div>
      </div>
