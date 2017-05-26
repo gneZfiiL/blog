@@ -26,9 +26,7 @@
   <header id="header">
    <div class="navbar navbar-inverse" role="banner">
     <div class="container">
-     <div class="navbar-header">
-      <a href="http://click.dji.com/APZ7xbqGqop88BpdmSQN?pm=link&amp;as=0001&amp;ch=dj01" target="_blank"> <img src="https://u.djicdn.com/uploads/ad_image_file/file/498/468x60_copy.jpg" /></a>
-     </div>
+
      <div class="collapse navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
        <li class="dropdown"><a href="index.html">Home <i class="fa fa-angle-down"></i></a>
@@ -70,7 +68,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img src="https://github.com/gneZfiiL/blog/raw/master/images/aboutus/1.png" class="img-responsive" alt="">
+                    <img src="https://github.com/gneZfiiL/blog/raw/master/images/aboutus/us.jpg" class="img-responsive" alt="">
+                    <a href="http://click.dji.com/APZ7xbqGqop88BpdmSQN?pm=link&amp;as=0001&amp;ch=dj01" target="_blank"> <img src="https://u.djicdn.com/uploads/ad_image_file/file/498/468x60_copy.jpg" /></a>
                 </div>
                 <div class="col-sm-6 padding-top">
                     <p>今天看到大疆发布的spark很想买一台</p>
@@ -100,10 +99,7 @@
 <p>webkit-->chromium blink</p>
 <p>就从webkit的演变开始吧</p>
 <p></p>
-                </div>
-            </div>
-        </div>
-    </section>
+
   <footer id="footer">
    <div class="container">
     <div class="row">
@@ -124,5 +120,3 @@
   <script type="text/javascript" src="js/lightbox.min.js"></script>
   <script type="text/javascript" src="js/wow.min.js"></script>
   <script type="text/javascript" src="js/main.js"></script>
- </body>
-</html>
